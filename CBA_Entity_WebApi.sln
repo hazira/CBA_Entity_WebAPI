@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBA_Entity_WebApi", "CBA_Entity_WebApi\CBA_Entity_WebApi.csproj", "{821F87D1-D973-4424-BF24-0EF53064B300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBA_Entity_WebApi.Tests", "CBA_Entity_WebApi.Tests\CBA_Entity_WebApi.Tests.csproj", "{FDE7F015-CF46-4912-ADB3-2E5606C1CA1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{821F87D1-D973-4424-BF24-0EF53064B300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821F87D1-D973-4424-BF24-0EF53064B300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821F87D1-D973-4424-BF24-0EF53064B300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821F87D1-D973-4424-BF24-0EF53064B300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE7F015-CF46-4912-ADB3-2E5606C1CA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE7F015-CF46-4912-ADB3-2E5606C1CA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE7F015-CF46-4912-ADB3-2E5606C1CA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE7F015-CF46-4912-ADB3-2E5606C1CA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8897D9-99D6-4554-941E-673F40D321C0}
+	EndGlobalSection
+EndGlobal
